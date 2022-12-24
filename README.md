@@ -29,5 +29,5 @@ Special Keys :
 
 ## Screenshots
 
-![image0](https://user-images.githubusercontent.com/115719989/209432527-2a3b99ae-0db6-474d-ad15-b78ad6f811e5.jpg)
-![image1](https://user-images.githubusercontent.com/115719989/209432542-5e37785f-d952-442a-8dd2-4b3d80c000fb.jpg)
+<img src="https://user-images.githubusercontent.com/115719989/209432527-2a3b99ae-0db6-474d-ad15-b78ad6f811e5.jpg" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/115719989/209432542-5e37785f-d952-442a-8dd2-4b3d80c000fb.jpg" width="400" height="700">
