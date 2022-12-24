@@ -8,7 +8,7 @@ App uses mXparser (http://mathparser.org) library to evaluate mathematical expre
 Basic Operations :
 
 - Addition
-- Subtracion
+- Subtraction
 - Multiplication
 - Division
 
@@ -16,7 +16,7 @@ Special Functions :
 
 - Trigonometric such as sin(), cos(), tan().
 - Exponential
-- logarithmic
+- Logarithmic
 - Permutation and Combination
 - Mod function
 
